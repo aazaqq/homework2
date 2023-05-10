@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\bin\Debug\Lab_Console.exe.config
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\bin\Debug\Lab_Console.exe
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\bin\Debug\Lab_Console.pdb
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.exe
+C:\Users\User\Desktop\Lab_Csharp\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.pdb
